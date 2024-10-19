@@ -1,0 +1,110 @@
+/* Experience.css */
+
+.centered-line {
+    width: 93.75%;
+    margin: 20px auto;
+    border: 4px solid #4bccff;
+}
+
+.subsection {
+    font-size: 36px;
+    padding-bottom: 20px;
+}
+
+.subsection1 {
+    font-size: 30px;
+}
+
+.projects {
+    width: 1200px;
+    align-self: center;
+    justify-content: center;
+    margin: 40px;
+}
+
+.experience {
+    padding: 20px;
+}
+
+.projectsection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.projects {
+    max-width: 1000px;
+    text-align: center; /* Center the text within each project */
+    margin: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #8fdfffcd;
+    border-radius: 20px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.projects {
+    font-size: 20px;
+}
+
+.projname {
+    font-size: 24px;
+}
+
+.projphoto{
+    width: 800px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.project-details {
+    padding: 10px;
+    background-color: #e9f7ff;
+    border: 1px solid #007bff;
+    margin-bottom: 20px;
+}
+
+.certsection {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.cert-text {
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+.certification {
+    background-color: #8fdfffcd;
+    border-radius: 20px; /* Adds rounded corners */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+    width: 480px;
+}
+
+.certimage {
+    width: 120px;
+    margin-right: 20px;
+}

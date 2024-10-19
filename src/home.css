@@ -1,0 +1,75 @@
+/* Home.css */
+.home {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    justify-content: space-between;
+    padding: 10px;
+    width: 1600px;
+    height: 10px;
+    background-color: #4bccff;
+}
+
+.hello-im {
+    text-align: center;
+    font-size: 30px;
+}
+
+.myname {
+    text-align: center;
+    font-size: 30px;
+}
+
+.centered-line {
+    width: 93.75%;
+    margin: 20px auto;
+    border: 4px solid #4bccff;
+}
+
+.photo {
+    text-align: left;
+    margin-left: 240px;
+}
+
+.intro-text {
+    text-align: right;
+    margin-top: 160px;
+}
+
+.mainheader {
+    text-align: center;
+}
+
+.highlight {
+    color: blue;
+}
+
+.highlight_lb {
+    color: lightskyblue;
+}
+
+.intro {
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+}
+
+.profile-pic {
+    width: 300px;
+    height: 320px;
+    border-radius: 0%;
+    margin: 10px 0;
+}
+
+.description {
+    font-size: 24px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.contact-icons img {
+    width: 30px;
+    margin: 0 10px;
+}
